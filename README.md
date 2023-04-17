@@ -10,9 +10,9 @@
 
 Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Prof. J Ram Kumar
 :--|:--|
-<b> Institute | <b>  
+<b> Institute | <b>  IIT Kanpur
 <b> Email id|     <b>  
 <b> Department |  
 
@@ -20,5 +20,5 @@ Fill a brief description of this experiment here
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
+1 |  | . | . | . | .
 2 | . | . | . | . | .
