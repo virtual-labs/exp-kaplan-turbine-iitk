@@ -2,12 +2,46 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1)Which one of the following statements is true?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Both Pelton and Francis turbine are impulse turbine",
+        "b": "Kaplan turbine is axial flow reaction turbine",
+        "c": "Francis turbine is axial flow reaction turbine",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2)For which of the following values of available heads may Kaplan turbine be used?",
+      "answers": {
+        "a": "250 m",
+        "b": "150",
+        "c": "100 m",
+        "d": "80 m"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3)Which turbine has least number of blades:?",
+      "answers": {
+        "a": "Kaplan",
+        "b": "Pelton",
+        "c": "Francis",
+        "d": "None of the above"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +53,12 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "4)Blades in Kaplan Turbine have twist to maintain:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Constant angle of attack and high efficiency",
+        "b": "Constant angle of attack and low efficiency",
+        "c": "Variable angle of attack and constant efficiency ",
+        "d": "None of the above"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -32,7 +66,7 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
