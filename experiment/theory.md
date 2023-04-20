@@ -31,7 +31,7 @@ The advantages of the Kaplan turbine include the following.<br><br>
 •	It works at low head <br><br>
 •	It has fewer blades which are adjustable too.<br><br>
 •	It occupies less space and has simple construction.<br><br>
-•	Very high efficiency as compared to other turbines.<br>
+•	Very high efficiency as compared to other turbines.<br><br>
 •	Applicable for high discharge-based applications.<br><br>
 <b>Disadvantages of Kaplan Turbine</b><br><br>
 The disadvantages of the Kaplan turbine include the following.<br><br>
