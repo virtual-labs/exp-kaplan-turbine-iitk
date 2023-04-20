@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1)In reaction turbines, the runner utilizes?",
+      "question": "1. In reaction turbines, the runner utilizes?",
       "answers": {
         "a": "Kinetic energy",
         "b": "Potential Energy",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "2)Minimum Head required in the following turbine?",
+      "question": "2. Minimum Head required in the following turbine?",
       "answers": {
         "a": "Kaplan",
         "b": "Pelton ",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "3)The function of draft tube is to Emergency braking",
+      "question": "3. The function of draft tube is to Emergency braking",
       "answers": {
         "a": "keep pressure at runner outlet above the atmospheric pressure",
         "b": "allow the turbine to be set below tail water level",
@@ -53,7 +53,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "4)Reaction turbine requires",
+      "question": "4. Reaction turbine requires",
       "answers": {
         "a": "High head and low discharge",
         "b": "Low head and high discharge",
@@ -67,6 +67,108 @@
         "d": "Explanation 2"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. Which of the following efficiencies for Kaplan Turbine is described as the ratio between total quantity of water over runner blades to total quantity of water supplied to turbine?",
+      "answers": {
+        "a": "Hydraulic efficiency",
+        "b": "Volumetric efficiency",
+        "c": "Mechanical efficiency",
+        "d": "Overall efficiency"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6. Which of the following efficiencies for Kaplan Turbine is defined as the ratio between the power available at the shaft of the turbine to the power produced by the runner?",
+      "answers": {
+        "a": "Hydraulic efficiency",
+        "b": "Volumetric efficiency",
+        "c": "Mechanical efficiency",
+        "d": "Overall efficiency"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7. Which of the following efficiencies for Kaplan Turbine is defined as the ratio between the power available at the shaft to the power supplied by water at the inlet?",
+      "answers": {
+        "a": "Hydraulic efficiency",
+        "b": "Volumetric efficiency",
+        "c": "Mechanical efficiency",
+        "d": "Overall efficiency"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8. Which of the following efficiencies for Kaplan Turbine is described as the ratio between the power produced by runner to the power supplied by water at the inlet?",
+      "answers": {
+        "a": "Hydraulic efficiency",
+        "b": "Volumetric efficiency",
+        "c": "Mechanical efficiency",
+        "d": "Overall efficiency"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "9. In a Kaplan turbine, what is the direction of water flow?",
+      "answers": {
+        "a": "Axial and then axial",
+        "b": "Radial and then axial",
+        "c": "Tangential and then axial",
+        "d": "Tangential and then radial"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "9. 10)	The velocity of flow through a Kaplan turbine is 10 m/s. The outer diameter of the runner is 4 m and the hub diameter is 2 m. Find the volume flow rate of the turbine in m<<sup>3</sup>/s?",
+      "answers": {
+        "a": "95",
+        "b": "75",
+        "c": "85",
+        "d": "105"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
