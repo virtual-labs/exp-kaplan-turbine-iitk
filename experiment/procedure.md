@@ -16,6 +16,7 @@ Suction head (H<sub>s</sub>) = <br<br>>
 5.	T = ( T<sub>1</sub> – T<sub>2</sub>) x g x dia. of brake drum<br><br>
 
 6.	Ƞ = P<sub>o</sub>/P<sub>i</sub> x 100<br><br>
+
 <b>Procedure – </b><br><br>
 
 1.	Add minimum load to the weight hanger of brake drum say 1 kg
