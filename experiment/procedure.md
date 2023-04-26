@@ -11,7 +11,7 @@ K = 84.5 is a constant depends on venturi meter dimensions<br><br>
 H = Suction head (H<sub>s</sub>) + Delivery head (H<sub>d</sub>) + Datum head<br><br>
              H = Head (of water) acting on Kaplan Turbine<br><br>
              Delivery head (H<sub>d</sub>) = P<sub>d</sub>/ρ<br><br>
-Suction head (H<sub>s</sub>)<br<br>>
+Suction head (H<sub>s</sub>)<br><br>
 4.	Output Power (P<sub>o</sub>) = <br><br>
 5.	T = ( T<sub>1</sub> – T<sub>2</sub>) x g x dia. of brake drum<br><br>
 
