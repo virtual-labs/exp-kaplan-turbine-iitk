@@ -28,14 +28,14 @@ Suction head (H<sub>s</sub>)<br><br>
 7.	Note the venturi meter pressure gauge reading P<sub>1</sub> and P<sub>2</sub>
 8.	Add additional weights and represent the experiment for both loads
 9.	For constant speed test , the main valve has to be adjusted to reduce or increase the inlet head to turbine for varying loads<br><br>
-<b>8.4Observations<b><br><br>
+<b> 8.4O bservations <b><br><br>
 1.Mean Diameter of the break drum, D(Dd + Dr) = 200 mm
 Where Dd = diameter of the drum, Dr = diameter of rope
 2.d1 = Dia. of Venturi Inlet = 100 mm, d2 = Dia. of venturi throat = 59.16 mm
 3.Speed (RPM) = 
 4.Q = K*Sqrt(H) where K = 84.5<br><br>
 <image src="images/image7.png"><br><br>
-<b>8.5Graphs</b><br>
+<b> 8.5Graphs </b><br>
 Plot the following curves and determine the efficiency of the Kaplan turbine<br>
 1 Speed Vs. Efficiency <br>
 2 Speed Vs. Power Input<br>
