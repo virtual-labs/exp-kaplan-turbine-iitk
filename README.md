@@ -1,7 +1,7 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Mechanical Engineering
 :--|:--|
 <b> Lab | <b> Fluid Mechanics Lab
 <b> Experiment|     <b> Characteristic curves of Kaplan turbine 
