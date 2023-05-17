@@ -34,7 +34,7 @@ Where Dd = diameter of the drum, Dr = diameter of rope<br>
 2.	d1 = Dia. of Venturi Inlet = 100 mm, d2 = Dia. of venturi throat = 59.16 mm<br>
 3.	Speed (RPM) = <br>
 4.	Q = K*Sqrt(H) where K = 84.5<br>
-<image src="images/image7.png">
+<image src="images/image7.png"><br><br>
 <b>8.5	Graphs</b><br>
 
 Plot the following curves and determine the efficiency of the Kaplan turbine<br>
