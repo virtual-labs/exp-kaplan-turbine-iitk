@@ -32,6 +32,7 @@ Where Dd = diameter of the drum, Dr = diameter of rope<br>
 3. Speed (RPM) = <br>
 4. Q = K*Sqrt(H) where K = 84.5<br><br>
 <image src="images/image7.png"><br><br>
+
 <b> 8.5	Graphs </b><br>
 Plot the following curves and determine the efficiency of the Kaplan turbine<br>
 1. Speed Vs. Efficiency <br>
