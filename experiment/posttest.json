@@ -68,6 +68,23 @@
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+    {
+      "question": "5. Which of the following efficiencies for Kaplan Turbine is described as the ratio between total quantity of water over runner blades to total quantity of water supplied to turbine?",
+      "answers": {
+        "a": "Hydraulic efficiency",
+        "b": "Volumetric efficiency",
+        "c": "Mechanical efficiency",
+        "d": "Overall efficiency"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
     }
   ]
 }
