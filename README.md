@@ -20,5 +20,8 @@ Fill a brief description of this experiment here
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 |  | . | . | . | .
-2 | . | . | . | . | .
+1 |Himanshu Sahu  | Student |  | . | 2107340130026@recbanda.ac.in
+2 | Gaurav Chaudhary | Student | . | . |gaurav2013c@gmail.com
+3 | Shalini | Student | . | . |shalinitiwari1837@gmail.com
+2 | Lakshman Das | Student | . | . |2107340400013@recbanda.ac.in
+2 | Lalit Singh | Student | . | . |2107340400014@recbanda.ac.in
