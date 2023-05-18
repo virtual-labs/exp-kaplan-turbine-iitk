@@ -68,23 +68,6 @@
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
-    },
-    {
-      "question": "5. The runner of __________ turbine always be under pressure of above atmospheric pressure",
-      "answers": {
-        "a": "Turgo",
-        "b": "Girand",
-        "c": "Kaplan",
-        "d": "None of the above"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
     }
   ]
 }
