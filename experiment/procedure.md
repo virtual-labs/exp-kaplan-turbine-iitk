@@ -14,7 +14,8 @@ Suction head (H<sub>s</sub>)=<br><br>
 4.	Output Power (P<sub>o</sub>) = <br><br>
 5.	T = ( T<sub>1</sub> – T<sub>2</sub>) x g x dia. of brake drum<br><br>
 6.	Ƞ = P<sub>o</sub>/P<sub>i</sub> x 100<br><br>
-<b>Procedure – </b><br>
+
+<b>8.3 Procedure – </b><br>
 1. Add minimum load to the weight hanger of brake drum say 1 kg
 2.	Close the main gate valve and start the pump
 3.	Open the gate valve while monitoring the inlet pressure to the turbine and set it for the design value of 1 Kg/cm<sup>2</sup>
@@ -24,6 +25,7 @@ Suction head (H<sub>s</sub>)=<br><br>
 7.	Note the venturi meter pressure gauge reading P<sub>1</sub> and P<sub>2</sub>
 8.	Add additional weights and represent the experiment for both loads
 9.	For constant speed test , the main valve has to be adjusted to reduce or increase the inlet head to turbine for varying loads<br><br>
+
 <b> 8.4 Observations </b><br>
 1. Mean Diameter of the break drum, D(D<sub>d</sub> + D<sub>r</sub>) = 200 mm<br>
 Where D<sub>d</sub> = diameter of the drum, D<sub>r</sub> = diameter of rope<br>
@@ -31,6 +33,7 @@ Where D<sub>d</sub> = diameter of the drum, D<sub>r</sub> = diameter of rope<br>
 3. Speed (RPM) = <br>
 4. Q = K*Sqrt(H) where K = 84.5<br><br>
 <image src="images/image7.png"><br><br>
+
 <b> 8.5	Graphs </b><br>
 Plot the following curves and determine the efficiency of the Kaplan turbine<br>
 1. Speed Vs. Efficiency <br>
