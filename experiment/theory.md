@@ -11,7 +11,7 @@ The complete turbine can be covered with a casing with a gradually decreasing cr
 Essentially, the casing of the turbine avoids the critical parts like impeller blades, guide vanes, a runner from damages because of external load.<br><br><br>
 <image src="images/image3.png"><br><br>
 Fig. 3: Scroll Casing<br><br><br>
-<b>Guide Blades/ Wicket Gates</b><br></br><br>
+<b>Guide Blades/ Wicket Gates</b><br></br>
 It is the only controlling part of the whole turbine, which opens and closes depending upon the demand of power requirement. In case of more power output requirements, it opens wider to allow more water to hit the blades of the rotor and when low power output requires it closes itself to cease the flow of water. If guide vanes are absent then the turbine cannot work efficiently henceforth its efficiency would decrease.<br><br>
 <image src="images/image4.png"><br><br>
 Fig. 4: Wicket Gates<br><br>
