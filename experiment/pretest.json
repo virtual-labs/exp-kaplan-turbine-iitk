@@ -24,10 +24,10 @@
         "d": "80 m"
       },
       "explanations": {
-        "a": "Explanation 1  <The correct answer is 80 m. Kaplan turbines are typically used for low-head applications, generally below 100 meters. They are highly efficient in such conditions and are ideal for run-of-the-river and low-head hydropower plants.>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation a  <The correct answer is 80 m. Kaplan turbines are typically used for low-head applications, generally below 100 meters. They are highly efficient in such conditions and are ideal for run-of-the-river and low-head hydropower plants.>",
+        "b": "Explanation b",
+        "c": "Explanation c",
+        "d": "Explanation d"
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -75,10 +75,10 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <The correct answer is Kaplan. In Kaplan turbines, the runner operates under a pressure higher than atmospheric pressure, which is essential for the proper functioning of the reaction turbine and helps to prevent cavitation.>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation a  <The correct answer is Kaplan. In Kaplan turbines, the runner operates under a pressure higher than atmospheric pressure, which is essential for the proper functioning of the reaction turbine and helps to prevent cavitation.>",
+        "b": "Explanation b",
+        "c": "Explanation c",
+        "d": "Explanation d"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
