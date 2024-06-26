@@ -10,10 +10,10 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is both kinetic and potential energy. Reaction turbines like Kaplan and Francis turbines operate using both the kinetic and potential energy of the water, which is converted into mechanical energy by the turbine blades.",
+        "b": "The correct answer is both kinetic and potential energy. Reaction turbines like Kaplan and Francis turbines operate using both the kinetic and potential energy of the water, which is converted into mechanical energy by the turbine blades.",
+        "c": "The correct answer is both kinetic and potential energy. Reaction turbines like Kaplan and Francis turbines operate using both the kinetic and potential energy of the water, which is converted into mechanical energy by the turbine blades.",
+        "d": "The correct answer is both kinetic and potential energy. Reaction turbines like Kaplan and Francis turbines operate using both the kinetic and potential energy of the water, which is converted into mechanical energy by the turbine blades."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -27,10 +27,10 @@
         "d": "All of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is Kaplan. Kaplan turbines are designed for low-head applications, usually requiring a head as low as a few meters, which makes them suitable for low-head hydroelectric power plants.",
+        "b": "The correct answer is Kaplan. Kaplan turbines are designed for low-head applications, usually requiring a head as low as a few meters, which makes them suitable for low-head hydroelectric power plants.",
+        "c": "The correct answer is Kaplan. Kaplan turbines are designed for low-head applications, usually requiring a head as low as a few meters, which makes them suitable for low-head hydroelectric power plants.",
+        "d": "The correct answer is Kaplan. Kaplan turbines are designed for low-head applications, usually requiring a head as low as a few meters, which makes them suitable for low-head hydroelectric power plants."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -44,10 +44,10 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is increase the pressure of the exiting fluid. The draft tube recovers the kinetic energy from the water exiting the runner by converting it into pressure energy, thereby increasing the efficiency of the turbine.",
+        "b": "The correct answer is increase the pressure of the exiting fluid. The draft tube recovers the kinetic energy from the water exiting the runner by converting it into pressure energy, thereby increasing the efficiency of the turbine.",
+        "c": "The correct answer is increase the pressure of the exiting fluid. The draft tube recovers the kinetic energy from the water exiting the runner by converting it into pressure energy, thereby increasing the efficiency of the turbine.",
+        "d": "The correct answer is increase the pressure of the exiting fluid. The draft tube recovers the kinetic energy from the water exiting the runner by converting it into pressure energy, thereby increasing the efficiency of the turbine."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -61,10 +61,10 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is low head and high discharge. Reaction turbines, such as Kaplan turbines, are typically used in applications where there is a low head (low height of water fall) and a high flow rate (high discharge).",
+        "b": "The correct answer is low head and high discharge. Reaction turbines, such as Kaplan turbines, are typically used in applications where there is a low head (low height of water fall) and a high flow rate (high discharge).",
+        "c": "The correct answer is low head and high discharge. Reaction turbines, such as Kaplan turbines, are typically used in applications where there is a low head (low height of water fall) and a high flow rate (high discharge).",
+        "d": "The correct answer is low head and high discharge. Reaction turbines, such as Kaplan turbines, are typically used in applications where there is a low head (low height of water fall) and a high flow rate (high discharge)."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -78,10 +78,10 @@
         "d": "Overall efficiency"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is volumetric efficiency. Volumetric efficiency measures how effectively the turbine uses the water supplied to it, indicating the fraction of water that actually passes over the runner blades compared to the total water supplied.",
+        "b": "The correct answer is volumetric efficiency. Volumetric efficiency measures how effectively the turbine uses the water supplied to it, indicating the fraction of water that actually passes over the runner blades compared to the total water supplied.",
+        "c": "The correct answer is volumetric efficiency. Volumetric efficiency measures how effectively the turbine uses the water supplied to it, indicating the fraction of water that actually passes over the runner blades compared to the total water supplied.",
+        "d": "The correct answer is volumetric efficiency. Volumetric efficiency measures how effectively the turbine uses the water supplied to it, indicating the fraction of water that actually passes over the runner blades compared to the total water supplied."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -95,10 +95,10 @@
         "d": "Overall efficiency"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is mechanical efficiency. Mechanical efficiency accounts for losses due to friction and other mechanical factors, indicating how effectively the turbine converts the runner's power into useful shaft power.",
+        "b": "The correct answer is mechanical efficiency. Mechanical efficiency accounts for losses due to friction and other mechanical factors, indicating how effectively the turbine converts the runner's power into useful shaft power.",
+        "c": "The correct answer is mechanical efficiency. Mechanical efficiency accounts for losses due to friction and other mechanical factors, indicating how effectively the turbine converts the runner's power into useful shaft power.",
+        "d": "The correct answer is mechanical efficiency. Mechanical efficiency accounts for losses due to friction and other mechanical factors, indicating how effectively the turbine converts the runner's power into useful shaft power."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -112,10 +112,10 @@
         "d": "Overall efficiency"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is overall efficiency. Overall efficiency combines hydraulic, mechanical, and volumetric efficiencies to measure the turbine's total performance, indicating how well the turbine converts the water's energy into mechanical energy.",
+        "b": "The correct answer is overall efficiency. Overall efficiency combines hydraulic, mechanical, and volumetric efficiencies to measure the turbine's total performance, indicating how well the turbine converts the water's energy into mechanical energy.",
+        "c": "The correct answer is overall efficiency. Overall efficiency combines hydraulic, mechanical, and volumetric efficiencies to measure the turbine's total performance, indicating how well the turbine converts the water's energy into mechanical energy.",
+        "d": "The correct answer is overall efficiency. Overall efficiency combines hydraulic, mechanical, and volumetric efficiencies to measure the turbine's total performance, indicating how well the turbine converts the water's energy into mechanical energy."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -129,10 +129,10 @@
         "d": "Overall efficiency"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is hydraulic efficiency. Hydraulic efficiency measures the effectiveness of the turbine in converting the energy of the water into mechanical energy at the runner, taking into account losses due to fluid dynamics.",
+        "b": "The correct answer is hydraulic efficiency. Hydraulic efficiency measures the effectiveness of the turbine in converting the energy of the water into mechanical energy at the runner, taking into account losses due to fluid dynamics.",
+        "c": "The correct answer is hydraulic efficiency. Hydraulic efficiency measures the effectiveness of the turbine in converting the energy of the water into mechanical energy at the runner, taking into account losses due to fluid dynamics.",
+        "d": "The correct answer is hydraulic efficiency. Hydraulic efficiency measures the effectiveness of the turbine in converting the energy of the water into mechanical energy at the runner, taking into account losses due to fluid dynamics."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -146,10 +146,10 @@
         "d": "Tangential and then radial"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is axial and then axial. In Kaplan turbines, water enters the turbine axially, flows through the runner axially, and exits axially. This axial flow design is crucial for low-head applications and high-efficiency operation.",
+        "b": "The correct answer is axial and then axial. In Kaplan turbines, water enters the turbine axially, flows through the runner axially, and exits axially. This axial flow design is crucial for low-head applications and high-efficiency operation.",
+        "c": "The correct answer is axial and then axial. In Kaplan turbines, water enters the turbine axially, flows through the runner axially, and exits axially. This axial flow design is crucial for low-head applications and high-efficiency operation.",
+        "d": "The correct answer is axial and then axial. In Kaplan turbines, water enters the turbine axially, flows through the runner axially, and exits axially. This axial flow design is crucial for low-head applications and high-efficiency operation."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -163,10 +163,10 @@
         "d": "105"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is 95. To calculate the volume flow rate (Q), we use the formula:<br>Q=A× v<br>where A is the cross-sectional area through which the water flows, and v is the velocity of the water. The cross-sectional area AAA can be calculated as the annular area between the outer diameter (D) and the hub diameter (d):<br>A=π(D2−d2)/4. Getting the Answer as : Q=3π×10≈ 94.25 m3/s",
+        "b": "The correct answer is 95. To calculate the volume flow rate (Q), we use the formula:<br>Q=A× v<br>where A is the cross-sectional area through which the water flows, and v is the velocity of the water. The cross-sectional area AAA can be calculated as the annular area between the outer diameter (D) and the hub diameter (d):<br>A=π(D2−d2)/4. Getting the Answer as : Q=3π×10≈ 94.25 m3/s",
+        "c": "The correct answer is 95. To calculate the volume flow rate (Q), we use the formula:<br>Q=A× v<br>where A is the cross-sectional area through which the water flows, and v is the velocity of the water. The cross-sectional area AAA can be calculated as the annular area between the outer diameter (D) and the hub diameter (d):<br>A=π(D2−d2)/4. Getting the Answer as : Q=3π×10≈ 94.25 m3/s",
+        "d": "The correct answer is 95. To calculate the volume flow rate (Q), we use the formula:<br>Q=A× v<br>where A is the cross-sectional area through which the water flows, and v is the velocity of the water. The cross-sectional area AAA can be calculated as the annular area between the outer diameter (D) and the hub diameter (d):<br>A=π(D2−d2)/4. Getting the Answer as : Q=3π×10≈ 94.25 m3/s"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
