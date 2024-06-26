@@ -95,10 +95,10 @@
         "d": "Flow of water, measure of discharge, angle of deflection"
       },
       "explanations": {
-        "a": "Explanation 1  <The correct answer is flow of water, measure of discharge, angle of deflection. Velocity triangles are graphical tools used to analyze the velocity components of the fluid flowing through turbine blades, helping in understanding the flow dynamics and designing the blades for maximum efficiency.>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is flow of water, measure of discharge, angle of deflection. Velocity triangles are graphical tools used to analyze the velocity components of the fluid flowing through turbine blades, helping in understanding the flow dynamics and designing the blades for maximum efficiency.",
+        "b": "The correct answer is flow of water, measure of discharge, angle of deflection. Velocity triangles are graphical tools used to analyze the velocity components of the fluid flowing through turbine blades, helping in understanding the flow dynamics and designing the blades for maximum efficiency.",
+        "c": "The correct answer is flow of water, measure of discharge, angle of deflection. Velocity triangles are graphical tools used to analyze the velocity components of the fluid flowing through turbine blades, helping in understanding the flow dynamics and designing the blades for maximum efficiency.",
+        "d": "The correct answer is flow of water, measure of discharge, angle of deflection. Velocity triangles are graphical tools used to analyze the velocity components of the fluid flowing through turbine blades, helping in understanding the flow dynamics and designing the blades for maximum efficiency."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -112,10 +112,10 @@
         "d": "Curtis turbine"
       },
       "explanations": {
-        "a": "Explanation 1  <The correct answer is Francis turbine. The Kaplan turbine evolved from the Francis turbine to handle lower heads with higher efficiency. It incorporates adjustable blades that allow it to operate efficiently under a wide range of flow conditions.>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is Francis turbine. The Kaplan turbine evolved from the Francis turbine to handle lower heads with higher efficiency. It incorporates adjustable blades that allow it to operate efficiently under a wide range of flow conditions.",
+        "b": "The correct answer is Francis turbine. The Kaplan turbine evolved from the Francis turbine to handle lower heads with higher efficiency. It incorporates adjustable blades that allow it to operate efficiently under a wide range of flow conditions.",
+        "c": "The correct answer is Francis turbine. The Kaplan turbine evolved from the Francis turbine to handle lower heads with higher efficiency. It incorporates adjustable blades that allow it to operate efficiently under a wide range of flow conditions.",
+        "d": "The correct answer is Francis turbine. The Kaplan turbine evolved from the Francis turbine to handle lower heads with higher efficiency. It incorporates adjustable blades that allow it to operate efficiently under a wide range of flow conditions."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -129,10 +129,10 @@
         "d": "Increasing and then decreasing"
       },
       "explanations": {
-        "a": "Explanation 1  <The correct answer is constant. Kaplan turbines typically rotate at a constant speed, which is synchronized with the electrical grid frequency. This consistent rotation speed is crucial for stable electricity generation.>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is constant. Kaplan turbines typically rotate at a constant speed, which is synchronized with the electrical grid frequency. This consistent rotation speed is crucial for stable electricity generation.",
+        "b": "The correct answer is constant. Kaplan turbines typically rotate at a constant speed, which is synchronized with the electrical grid frequency. This consistent rotation speed is crucial for stable electricity generation.",
+        "c": "The correct answer is constant. Kaplan turbines typically rotate at a constant speed, which is synchronized with the electrical grid frequency. This consistent rotation speed is crucial for stable electricity generation.",
+        "d": "The correct answer is constant. Kaplan turbines typically rotate at a constant speed, which is synchronized with the electrical grid frequency. This consistent rotation speed is crucial for stable electricity generation."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -146,10 +146,10 @@
         "d": "Pump"
       },
       "explanations": {
-        "a": "Explanation 1  <The correct answer is draft tube. The draft tube is a critical component that helps in recovering kinetic energy from the discharged water, improving the overall efficiency of the turbine by converting the kinetic energy into pressure energy.>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is draft tube. The draft tube is a critical component that helps in recovering kinetic energy from the discharged water, improving the overall efficiency of the turbine by converting the kinetic energy into pressure energy.",
+        "b": "The correct answer is draft tube. The draft tube is a critical component that helps in recovering kinetic energy from the discharged water, improving the overall efficiency of the turbine by converting the kinetic energy into pressure energy.",
+        "c": "The correct answer is draft tube. The draft tube is a critical component that helps in recovering kinetic energy from the discharged water, improving the overall efficiency of the turbine by converting the kinetic energy into pressure energy.",
+        "d": "The correct answer is draft tube. The draft tube is a critical component that helps in recovering kinetic energy from the discharged water, improving the overall efficiency of the turbine by converting the kinetic energy into pressure energy."
       },
       "correctAnswer": "C",
       "difficulty": "beginner"
@@ -163,10 +163,10 @@
         "d": "5000 and above"
       },
       "explanations": {
-        "a": "Explanation 1  <The correct answer is 5 to 200 MW. Kaplan turbines are suitable for low-head applications and typically generate power in the range of 5 to 200 MW, making them ideal for smaller-scale hydropower projects and run-of-the-river installations.>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is 5 to 200 MW. Kaplan turbines are suitable for low-head applications and typically generate power in the range of 5 to 200 MW, making them ideal for smaller-scale hydropower projects and run-of-the-river installations.",
+        "b": "The correct answer is 5 to 200 MW. Kaplan turbines are suitable for low-head applications and typically generate power in the range of 5 to 200 MW, making them ideal for smaller-scale hydropower projects and run-of-the-river installations.",
+        "c": "The correct answer is 5 to 200 MW. Kaplan turbines are suitable for low-head applications and typically generate power in the range of 5 to 200 MW, making them ideal for smaller-scale hydropower projects and run-of-the-river installations.",
+        "d": "The correct answer is 5 to 200 MW. Kaplan turbines are suitable for low-head applications and typically generate power in the range of 5 to 200 MW, making them ideal for smaller-scale hydropower projects and run-of-the-river installations."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
