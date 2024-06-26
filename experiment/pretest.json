@@ -10,10 +10,7 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <The correct answer is Kaplan turbine is an axial flow reaction turbine. A Kaplan turbine is designed for low-head applications and allows water to flow axially through the runner, which has adjustable blades to maintain efficient operation under varying load conditions.>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation 1  <The correct answer is Kaplan turbine is an axial flow reaction turbine. A Kaplan turbine is designed for low-head applications and allows water to flow axially through the runner, which has adjustable blades to maintain efficient operation under varying load conditions.>"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
