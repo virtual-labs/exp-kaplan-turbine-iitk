@@ -7,7 +7,7 @@
         "a": "Both Pelton and Francis turbine are impulse turbine",
         "b": "Kaplan turbine is axial flow reaction turbine",
         "c": "Francis turbine is axial flow reaction turbine",
-        "d": "None of the above"
+        "d": "None of these"
       },
       "explanations": {
         "a": "The correct answer is Kaplan turbine is an axial flow reaction turbine. A Kaplan turbine is designed for low-head applications and allows water to flow axially through the runner, which has adjustable blades to maintain efficient operation under varying load conditions.",
@@ -41,7 +41,7 @@
         "a": "Kaplan",
         "b": "Pelton",
         "c": "Francis",
-        "d": "None of the above"
+        "d": "None of these"
       },
       "explanations": {
         "a": "The correct answer is Kaplan. Kaplan turbines usually have fewer blades compared to Pelton and Francis turbines. This design helps in maintaining efficiency over a wide range of flows and heads by adjusting the blade pitch.",
@@ -58,7 +58,7 @@
         "a": "Constant angle of attack and high efficiency",
         "b": "Constant angle of attack and low efficiency",
         "c": "Variable angle of attack and constant efficiency ",
-        "d": "None of the above"
+        "d": "None of these"
       },
       "explanations": {
         "a": "The correct answer is constant angle of attack and high efficiency. The blades of a Kaplan turbine are twisted to ensure that the angle of attack of the water remains optimal along the length of the blade, maximizing efficiency and performance.",
@@ -75,7 +75,7 @@
         "a": "Turgo",
         "b": "Girand",
         "c": "Kaplan ",
-        "d": "None of the above"
+        "d": "None of these"
       },
       "explanations": {
         "a": "The correct answer is Kaplan. In Kaplan turbines, the runner operates under a pressure higher than atmospheric pressure, which is essential for the proper functioning of the reaction turbine and helps to prevent cavitation.",
