@@ -92,13 +92,13 @@
         "a": "Flow of water along blades of turbine",
         "b": "Measure discharge of flow",
         "c": "Angle of deflection of jet ",
-        "d": "Flow of water, measure of discharge, angle of deflection"
+        "d": "All of these"
       },
       "explanations": {
-        "a": "The correct answer is flow of water, measure of discharge, angle of deflection. Velocity triangles are graphical tools used to analyze the velocity components of the fluid flowing through turbine blades, helping in understanding the flow dynamics and designing the blades for maximum efficiency.",
-        "b": "The correct answer is flow of water, measure of discharge, angle of deflection. Velocity triangles are graphical tools used to analyze the velocity components of the fluid flowing through turbine blades, helping in understanding the flow dynamics and designing the blades for maximum efficiency.",
-        "c": "The correct answer is flow of water, measure of discharge, angle of deflection. Velocity triangles are graphical tools used to analyze the velocity components of the fluid flowing through turbine blades, helping in understanding the flow dynamics and designing the blades for maximum efficiency.",
-        "d": "The correct answer is flow of water, measure of discharge, angle of deflection. Velocity triangles are graphical tools used to analyze the velocity components of the fluid flowing through turbine blades, helping in understanding the flow dynamics and designing the blades for maximum efficiency."
+        "a": "The correct answer is All of these. Velocity triangles are graphical tools used to analyze the velocity components of the fluid flowing through turbine blades, helping in understanding the flow dynamics and designing the blades for maximum efficiency.",
+        "b": "The correct answer is All of these. Velocity triangles are graphical tools used to analyze the velocity components of the fluid flowing through turbine blades, helping in understanding the flow dynamics and designing the blades for maximum efficiency.",
+        "c": "The correct answer is All of these. Velocity triangles are graphical tools used to analyze the velocity components of the fluid flowing through turbine blades, helping in understanding the flow dynamics and designing the blades for maximum efficiency.",
+        "d": "The correct answer is All of these. Velocity triangles are graphical tools used to analyze the velocity components of the fluid flowing through turbine blades, helping in understanding the flow dynamics and designing the blades for maximum efficiency."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -151,7 +151,7 @@
         "c": "The correct answer is draft tube. The draft tube is a critical component that helps in recovering kinetic energy from the discharged water, improving the overall efficiency of the turbine by converting the kinetic energy into pressure energy.",
         "d": "The correct answer is draft tube. The draft tube is a critical component that helps in recovering kinetic energy from the discharged water, improving the overall efficiency of the turbine by converting the kinetic energy into pressure energy."
       },
-      "correctAnswer": "C",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
