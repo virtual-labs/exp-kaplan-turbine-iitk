@@ -31,7 +31,7 @@ Suction head (H<sub>s</sub>)=<br><br>
 Where D<sub>d</sub> = diameter of the drum, D<sub>r</sub> = diameter of rope<br>
 2. d<sub>1</sub> = Dia. of Venturi Inlet = 100 mm, d<sub>2</sub> = Dia. of venturi throat = 59.16 mm<br>
 3. Speed (RPM) = <br>
-4. 	Q=k √h k = 84.5<br><br>
+4. Q=k √h k = 84.5 <br><br>
 <image src="images/image7.png"><br><br>
 
 <b>Graphs </b><br>
