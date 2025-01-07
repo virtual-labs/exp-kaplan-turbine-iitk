@@ -7,7 +7,7 @@
         "a": "Kinetic energy",
         "b": "Potential Energy",
         "c": "Both Kinetic and Potential Energy",
-        "d": "None of these"
+        "d": "Hydraulic energy"
       },
       "explanations": {
         "a": "The correct answer is both kinetic and potential energy. Reaction turbines like Kaplan and Francis turbines operate using both the kinetic and potential energy of the water, which is converted into mechanical energy by the turbine blades.",
@@ -24,7 +24,7 @@
         "a": "Kaplan",
         "b": "Pelton ",
         "c": "Francis",
-        "d": "All of these"
+        "d": "Pelton and francis"
       },
       "explanations": {
         "a": "The correct answer is Kaplan. Kaplan turbines are designed for low-head applications, usually requiring a head as low as a few meters, which makes them suitable for low-head hydroelectric power plants.",
@@ -41,7 +41,7 @@
         "a": "keep pressure at runner outlet above the atmospheric pressure",
         "b": "allow the turbine to be set below tail water level",
         "c": "increase the pressure of the exiting fluid",
-        "d": "None of these"
+        "d": "decreases the pressure of the exiting fluid"
       },
       "explanations": {
         "a": "The correct answer is increase the pressure of the exiting fluid. The draft tube recovers the kinetic energy from the water exiting the runner by converting it into pressure energy, thereby increasing the efficiency of the turbine.",
@@ -58,7 +58,7 @@
         "a": "High head and low discharge",
         "b": "Low head and high discharge",
         "c": "Low head and low discharge",
-        "d": "None of these"
+        "d": "High head and high discharge"
       },
       "explanations": {
         "a": "The correct answer is low head and high discharge. Reaction turbines, such as Kaplan turbines, are typically used in applications where there is a low head (low height of water fall) and a high flow rate (high discharge).",

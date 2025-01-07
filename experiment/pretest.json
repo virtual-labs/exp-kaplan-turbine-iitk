@@ -92,7 +92,7 @@
         "a": "Flow of water along blades of turbine",
         "b": "Measure discharge of flow",
         "c": "Angle of deflection of jet ",
-        "d": "All of these"
+        "d": "Flow of water, measure of discharge, angle of deflection"
       },
       "explanations": {
         "a": "The correct answer is All of these. Velocity triangles are graphical tools used to analyze the velocity components of the fluid flowing through turbine blades, helping in understanding the flow dynamics and designing the blades for maximum efficiency.",
