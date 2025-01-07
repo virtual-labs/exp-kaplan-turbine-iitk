@@ -25,7 +25,7 @@ The pressure at the exit of the runner of Reaction Turbine is generally less tha
 Fig. 5: Draft Tube of Kaplan turbine<br><br>
 <b>Working of Kaplan Turbine</b><br><br><br>
 <image src="images/image6.png"><br><br>
-Fig. 5: Schematic working model of Kaplan turbine<br><br>
+Fig. 6: Schematic working model of Kaplan turbine<br><br>
 The water released from the pen-stock enters the scroll casing which has such a shape that the required flow pressure is not lost. Through guide vanes water is directed to the runner blades. Since the vanes can be adjusted through governor mechanism, henceforth vanes adjust itself according to the flow rate. The water takes a 90 degree turn, so the direction of the water is axial to that of runner blades. When the water strikes the runner blades, the turbine starts to rotate due to the reaction force of the water. Twist is provided along the span of the runner blade in order to maintain optimum angle of attack at all cross section of blades in order to achieve higher efficiency. The water enters into the draft tube as it leaves the runner blades where its pressure energy and kinetic energy reduces i.e. Kinetic energy gets converted into pressure energy resulting in increased pressure of the water. Since shaft of the turbine and that of the generator are interconnected, hence rotation of turbine rotates the generator shaft hence producing electricity.<br><br>
 <b>Advantages of Kaplan Turbine</b><br><br>
 The advantages of the Kaplan turbine include the following.<br><br>
