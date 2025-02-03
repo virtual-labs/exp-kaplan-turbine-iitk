@@ -1,5 +1,5 @@
 <image src="images/image1.png"><br><br>
-Fig. 1: front view of Kaplan turbine<br><br><br>
+Fig. 1: front view of Kaplan turbine model<br><br><br>
 Kaplan turbine also known as Propeller turbine by virtue of its propeller blades used in the setup. Kaplan turbine was invented by an Austrian professor Viktor Kaplan in 1913. Kaplan Turbine working principle is that of axial flow reaction, it is also categorized under reaction turbine since it operates in a closed conduit from head race to tail race. In axial flow turbines, the water flows through the runner along the direction parallel to the axis of rotation of the runner. At inlet, the water possesses both kinetic energy as well as pressure energy for effective rotation the blades. Kaplan turbine can work at low head and high flow rates very efficiently which is impossible with Francis turbine. <br><br><br>
 <b>Parts of a Kaplan Turbine </b><br><br>
 <image src="images/image2.png"><br><br>
