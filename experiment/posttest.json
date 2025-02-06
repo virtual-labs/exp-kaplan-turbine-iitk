@@ -38,9 +38,9 @@
     {
       "question": "3)The function of draft tube is to Emergency braking",
       "answers": {
-        "a": "keep pressure at runner outlet above the atmospheric pressure",
-        "b": "allow the turbine to be set below tail water level",
-        "c": "increase the pressure of the exiting fluid",
+        "a": "Keep the pressure at the runner outlet above the atmospheric pressure",
+        "b": "Allow the turbine to be set below the tailwater level",
+        "c": "Increase the pressure of the exiting fluid",
         "d": "decreases the pressure of the exiting fluid"
       },
       "explanations": {

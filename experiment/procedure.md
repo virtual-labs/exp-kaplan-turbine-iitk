@@ -8,9 +8,8 @@ k = 84.5 is a constant depends on venturi meter dimensions<br><br>
 3.	H = h<sub>1</sub> – h<sub>2</sub>(s<sub>1</sub>/s<sub>2</sub>-1)<br><br>
 H = Suction head (H<sub>s</sub>) + Delivery head (H<sub>d</sub>) + Datum head<br><br>
 H = Head (of water) acting on Kaplan Turbine<br><br>
-Delivery head (H<sub>d</sub>) = P<sub>d</sub>/ρ<br><br>
-Suction head (H<sub>s</sub>)=<br><br>
-4.	Output Power (P<sub>o</sub>) = <br><br>
+<image src="images/imagep1.png"><br><br>
+4.	Output Power P_o = (T_1- T_2 )×g×dia.of brake drum <br><br>
 5.	T = ( T<sub>1</sub> – T<sub>2</sub>) x g x dia. of brake drum<br><br>
 6.	Ƞ = P<sub>o</sub>/P<sub>i</sub> x 100<br><br>
 
