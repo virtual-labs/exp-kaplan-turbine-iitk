@@ -498,7 +498,24 @@ input {
     }
   } */
 
+  @keyframes floatAnimation {
+    0% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+    100% {
+      transform: translateY(0);
+    }
+  }
   
+  #highlight-arrow {
+    position: absolute;
+    width: 50px;
+    display: none;
+    animation: floatAnimation 1s infinite ease-in-out;
+  }
 
 
 
