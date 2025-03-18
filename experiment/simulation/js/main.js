@@ -1,4 +1,5 @@
 var enableButton=document.getElementById("enable");
+var highlightArrow = document.getElementById("highlight-arrow");
 var purzeButton=document.getElementById("purze")
 var valvePositioning = document.querySelector("#flow-rate-slider")
 var svg=document.getElementById("Layer_1");
@@ -36,6 +37,7 @@ var vpgrText = document.getElementById("vacuum-pressure-guage-reading-text")
 var pgrText = document.getElementById("pressure-guage-reading-text")
 var voltmeterText = document.getElementById("voltmeter-text")
 var ammeterText = document.getElementById("ammeter-text")
+var currentHighlightedElement = enableButton
 
 function power(){
     if(count==0){
@@ -44,6 +46,7 @@ function power(){
         enableButton.textContent = "POWER OFF"
         count=1
         waterFlow1()
+        highlightArrow.style.display = "none"
     }else{
         if(!window.appData.powerFlag){
             alert("Please complete the experiment to turn power off!");
@@ -96,6 +99,7 @@ function waterFlow3(){
     setTimeout(function(){
         purzeButton.disabled = false;
         document.getElementById("steps").innerHTML = "Click on Flow Valve On button."
+        highlightArrowFn(purzeButton)
     },3000);
 }
 function waterFlow4(){
@@ -116,6 +120,7 @@ function waterFlow4(){
 function purzeAction(){
     waterFlow4()   
     purzeButton.disabled= true;
+    highlightArrow.style.display = "none"
 }
 function waterFlow5(){
     w5.setAttribute("opacity", "1")
@@ -204,6 +209,7 @@ function waterFlow7(){
             // waterFlow8()
             readingSelection.disabled= false
             document.getElementById("steps").innerHTML = "To find readings at constant head, select the constant head from the 'reading on' dropdown menu"
+            highlightArrowFn(readingSelection)
         }, 1000);
 }
 var weightflag = 0
@@ -215,6 +221,7 @@ function updatereading(){
     }
     else{
         document.getElementById("steps").innerHTML = "Select the value of valve positioning."
+        highlightArrowFn(valvePositioning)
         valvePositioning.value = "0"
         valvePositioning.disabled= false;
         readingSelection.disabled = true;
@@ -378,15 +385,27 @@ function waterFlow11(){
                 pgrText.textContent = "0.85 kg/cm^2"
                 voltmeterText.textContent = "210.00 V"
                 ammeterText.textContent = "6.70 A"
+                document.getElementById("steps").innerHTML = "Now, Use further readings to calculate efficiency"
+                highlightArrow.style.display = "none"
             }
         }
+        
         if(insFlag == true){
             document.getElementById("steps").innerHTML = "Now change the constant parameter."
             readingSelection.disabled = false
             insFlag = false
-        }else{
+            highlightArrowFn(readingSelection)
+        }
+        if(valvePositioning.value < 5){
             document.getElementById("steps").innerHTML = "Now, Use further readings to calculate efficiency and select another value of valve positioning."
+            highlightArrowFn(valvePositioning)
             valvePositioning.disabled = false
+        }
+        if(valvePositioning.value == 5 && readingSelection.value == 1) {
+            document.getElementById("steps").innerHTML = "Now change the constant parameter."
+            readingSelection.disabled = false
+            valvePositioning.disabled = true
+            highlightArrowFn(readingSelection)
         }
         
     }, 1500)
@@ -412,6 +431,7 @@ function updateValvePositioning(){
     waterFlow8()
     valvePositioning.disabled = true;
     document.getElementById("steps").innerHTML = "Wait for the readings."
+    highlightArrow.style.display = "none"
 }
 
 function reset(){
@@ -435,3 +455,23 @@ function reset(){
     ammeterText.textContent = "00.00 A"
 
 }
+
+function highlightArrowFn(element) {
+    if (element) {
+      let rect = element.getBoundingClientRect();
+      highlightArrow.style.left = `${
+        rect.left + window.scrollX + rect.width / 2 - 25
+      }px`;
+      highlightArrow.style.top = `${rect.top + window.scrollY - 50}px`;
+      highlightArrow.style.display = "block";
+      currentHighlightedElement = element;
+    }
+  }
+  
+  document.addEventListener("DOMContentLoaded", () =>
+    highlightArrowFn(enableButton)
+  );
+
+  window.addEventListener('resize', function() {
+    highlightArrowFn(currentHighlightedElement); // Recalculate position of the arrow when the window resizes
+  });
