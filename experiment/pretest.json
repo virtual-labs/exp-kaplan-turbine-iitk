@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "3)Which turbine has least number of blades:?",
+      "question": "3)Which turbine has least number of blades?",
       "answers": {
         "a": "Kaplan",
         "b": "Pelton",
@@ -87,7 +87,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "6) Velocity triangles are used to analyze ____________",
+      "question": "6) Velocity triangles are used to analyze ____________.",
       "answers": {
         "a": "Flow of water along blades of turbine",
         "b": "Measure discharge of flow",
@@ -104,7 +104,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "7) The Kaplan Turbine is an evolution of ________",
+      "question": "7) The Kaplan Turbine is an evolution of ________.",
       "answers": {
         "a": "Francis turbine",
         "b": "Pelton wheel",
@@ -138,7 +138,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "9) The outlet of the Kaplan turbine is through _______",
+      "question": "9) The outlet of the Kaplan turbine is through _______.",
       "answers": {
         "a": "Vane Blades",
         "b": "Moving pipeline",
@@ -155,7 +155,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "10) The power output of Kaplan turbine ranges from__________",
+      "question": "10) The power output of Kaplan turbine ranges from__________.",
       "answers": {
         "a": "5 to 200 MW",
         "b": "1000 to 2000 MW",
