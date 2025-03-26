@@ -25,7 +25,7 @@ H = Head (of water) acting on Kaplan Turbine<br><br>
 9.	For constant speed test , the main valve has to be adjusted to reduce or increase the inlet head to turbine for varying loads<br><br>
 
 <b>Observations </b><br>
-1. Mean Diameter of the break drum, D(D<sub>d</sub> + D<sub>r</sub>) = 200 mm<br>
+1. Mean Diameter of the brake drum, D(D<sub>d</sub> + D<sub>r</sub>) = 200 mm<br>
 Where D<sub>d</sub> = diameter of the drum, D<sub>r</sub> = diameter of rope<br>
 2. d<sub>1</sub> = Dia. of Venturi Inlet = 100 mm, d<sub>2</sub> = Dia. of venturi throat = 59.16 mm<br>
 3. Speed (RPM) = <br>
@@ -34,7 +34,7 @@ Where D<sub>d</sub> = diameter of the drum, D<sub>r</sub> = diameter of rope<br>
 
 <b>Graphs </b><br>
 Plot the following curves and determine the efficiency of the Kaplan turbine<br>
-1. Speed Vs. Efficiency <br>
-2. Speed Vs. Power Input<br>
-3. Speed Vs. Power Output<br>
+1. Speed vs. Efficiency <br>
+2. Speed vs. Power Input<br>
+3. Speed vs. Power Output<br>
 
