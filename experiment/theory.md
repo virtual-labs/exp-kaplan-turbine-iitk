@@ -14,6 +14,7 @@ It is a large size conduit which conveys water from the upstream of dam/reservoi
 The complete turbine can be covered with a casing with a gradually decreasing cross sectional area along the flow direction. The maximum area is at the junction where penstock delivers the water into the volute/scroll.<br><br>
 Essentially, the casing of the turbine avoids the critical parts like impeller blades, guide vanes, a runner from damages because of external load.<br><br><br>
 <image src="images/image3.png"><br><br>
+  
 Fig. 3: Scroll Casing of Kaplan turbine<br><br>
 
 <b>2.3 Guide Blades/ Wicket Gates</b><br></br><br>
@@ -41,9 +42,11 @@ The advantages of the Kaplan turbine include the following.<br><br>
 •	It works at low head <br><br>
 •	It has fewer blades which are adjustable too.<br><br>
 •	It occupies less space and has simple construction.<br><br>
+
 •	Very high efficiency as compared to other turbines.<br><br>
 •	Applicable for high discharge-based applications.<br><br>
 <b>5. Disadvantages of Kaplan Turbine</b><br><br>
+
 The disadvantages of the Kaplan turbine include the following.<br><br>
 •	Due to pressure drop within the draft tube, Cavitation can occur.<br><br>
 •	Works at only high flow rates.<br><br>
