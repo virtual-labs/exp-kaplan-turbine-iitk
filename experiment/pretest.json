@@ -7,13 +7,13 @@
         "a": "Both Pelton and Francis turbine are impulse turbine",
         "b": "Kaplan turbine is axial flow reaction turbine",
         "c": "Francis turbine is axial flow reaction turbine",
-        "d": "None of the above"
+        "d": "Pelton is reaction  turbine"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is Kaplan turbine is an axial flow reaction turbine. A Kaplan turbine is designed for low-head applications and allows water to flow axially through the runner, which has adjustable blades to maintain efficient operation under varying load conditions.",
+        "b": "The correct answer is Kaplan turbine is an axial flow reaction turbine. A Kaplan turbine is designed for low-head applications and allows water to flow axially through the runner, which has adjustable blades to maintain efficient operation under varying load conditions.",
+        "c": "The correct answer is Kaplan turbine is an axial flow reaction turbine. A Kaplan turbine is designed for low-head applications and allows water to flow axially through the runner, which has adjustable blades to maintain efficient operation under varying load conditions.",
+        "d": "The correct answer is Kaplan turbine is an axial flow reaction turbine. A Kaplan turbine is designed for low-head applications and allows water to flow axially through the runner, which has adjustable blades to maintain efficient operation under varying load conditions."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -22,32 +22,32 @@
       "question": "2)For which of the following values of available heads may Kaplan turbine be used?",
       "answers": {
         "a": "250 m",
-        "b": "150",
+        "b": "150 m",
         "c": "100 m",
         "d": "80 m"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is 80 m. Kaplan turbines are typically used for low-head applications, generally below 100 meters. They are highly efficient in such conditions and are ideal for run-of-the-river and low-head hydropower plants.",
+        "b": "The correct answer is 80 m. Kaplan turbines are typically used for low-head applications, generally below 100 meters. They are highly efficient in such conditions and are ideal for run-of-the-river and low-head hydropower plants.",
+        "c": "The correct answer is 80 m. Kaplan turbines are typically used for low-head applications, generally below 100 meters. They are highly efficient in such conditions and are ideal for run-of-the-river and low-head hydropower plants.",
+        "d": "The correct answer is 80 m. Kaplan turbines are typically used for low-head applications, generally below 100 meters. They are highly efficient in such conditions and are ideal for run-of-the-river and low-head hydropower plants."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "3)Which turbine has least number of blades:?",
+      "question": "3)Which turbine has least number of blades?",
       "answers": {
         "a": "Kaplan",
         "b": "Pelton",
         "c": "Francis",
-        "d": "None of the above"
+        "d": "All are equal no of blade"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is Kaplan. Kaplan turbines usually have fewer blades compared to Pelton and Francis turbines. This design helps in maintaining efficiency over a wide range of flows and heads by adjusting the blade pitch.",
+        "b": "The correct answer is Kaplan. Kaplan turbines usually have fewer blades compared to Pelton and Francis turbines. This design helps in maintaining efficiency over a wide range of flows and heads by adjusting the blade pitch.",
+        "c": "The correct answer is Kaplan. Kaplan turbines usually have fewer blades compared to Pelton and Francis turbines. This design helps in maintaining efficiency over a wide range of flows and heads by adjusting the blade pitch.",
+        "d": "The correct answer is Kaplan. Kaplan turbines usually have fewer blades compared to Pelton and Francis turbines. This design helps in maintaining efficiency over a wide range of flows and heads by adjusting the blade pitch."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -58,13 +58,115 @@
         "a": "Constant angle of attack and high efficiency",
         "b": "Constant angle of attack and low efficiency",
         "c": "Variable angle of attack and constant efficiency ",
-        "d": "None of the above"
+        "d": "Variable angle of attack and high efficiency "
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is constant angle of attack and high efficiency. The blades of a Kaplan turbine are twisted to ensure that the angle of attack of the water remains optimal along the length of the blade, maximizing efficiency and performance.",
+        "b": "The correct answer is constant angle of attack and high efficiency. The blades of a Kaplan turbine are twisted to ensure that the angle of attack of the water remains optimal along the length of the blade, maximizing efficiency and performance.",
+        "c": "The correct answer is constant angle of attack and high efficiency. The blades of a Kaplan turbine are twisted to ensure that the angle of attack of the water remains optimal along the length of the blade, maximizing efficiency and performance.",
+        "d": "The correct answer is constant angle of attack and high efficiency. The blades of a Kaplan turbine are twisted to ensure that the angle of attack of the water remains optimal along the length of the blade, maximizing efficiency and performance."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5)The runner of __________ turbine always be under pressure of above atmospheric pressure.",
+      "answers": {
+        "a": "Turgo",
+        "b": "Girand",
+        "c": "Kaplan ",
+        "d": "Pelton"
+      },
+      "explanations": {
+        "a": "The correct answer is Kaplan. In Kaplan turbines, the runner operates under a pressure higher than atmospheric pressure, which is essential for the proper functioning of the reaction turbine and helps to prevent cavitation.",
+        "b": "The correct answer is Kaplan. In Kaplan turbines, the runner operates under a pressure higher than atmospheric pressure, which is essential for the proper functioning of the reaction turbine and helps to prevent cavitation.",
+        "c": "The correct answer is Kaplan. In Kaplan turbines, the runner operates under a pressure higher than atmospheric pressure, which is essential for the proper functioning of the reaction turbine and helps to prevent cavitation.",
+        "d": "The correct answer is Kaplan. In Kaplan turbines, the runner operates under a pressure higher than atmospheric pressure, which is essential for the proper functioning of the reaction turbine and helps to prevent cavitation."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6) Velocity triangles are used to analyze ____________.",
+      "answers": {
+        "a": "Flow of water along blades of turbine",
+        "b": "Measure discharge of flow",
+        "c": "Angle of deflection of jet ",
+        "d": "Flow of water, measure of discharge, angle of deflection"
+      },
+      "explanations": {
+        "a": "The correct answer is All of these. Velocity triangles are graphical tools used to analyze the velocity components of the fluid flowing through turbine blades, helping in understanding the flow dynamics and designing the blades for maximum efficiency.",
+        "b": "The correct answer is All of these. Velocity triangles are graphical tools used to analyze the velocity components of the fluid flowing through turbine blades, helping in understanding the flow dynamics and designing the blades for maximum efficiency.",
+        "c": "The correct answer is All of these. Velocity triangles are graphical tools used to analyze the velocity components of the fluid flowing through turbine blades, helping in understanding the flow dynamics and designing the blades for maximum efficiency.",
+        "d": "The correct answer is All of these. Velocity triangles are graphical tools used to analyze the velocity components of the fluid flowing through turbine blades, helping in understanding the flow dynamics and designing the blades for maximum efficiency."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7) The Kaplan Turbine is an evolution of ________.",
+      "answers": {
+        "a": "Francis turbine",
+        "b": "Pelton wheel",
+        "c": "Parsons turbine ",
+        "d": "Curtis turbine"
+      },
+      "explanations": {
+        "a": "The correct answer is Francis turbine. The Kaplan turbine evolved from the Francis turbine to handle lower heads with higher efficiency. It incorporates adjustable blades that allow it to operate efficiently under a wide range of flow conditions.",
+        "b": "The correct answer is Francis turbine. The Kaplan turbine evolved from the Francis turbine to handle lower heads with higher efficiency. It incorporates adjustable blades that allow it to operate efficiently under a wide range of flow conditions.",
+        "c": "The correct answer is Francis turbine. The Kaplan turbine evolved from the Francis turbine to handle lower heads with higher efficiency. It incorporates adjustable blades that allow it to operate efficiently under a wide range of flow conditions.",
+        "d": "The correct answer is Francis turbine. The Kaplan turbine evolved from the Francis turbine to handle lower heads with higher efficiency. It incorporates adjustable blades that allow it to operate efficiently under a wide range of flow conditions."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8) Kaplan turbines rotates at a ________ rate",
+      "answers": {
+        "a": "Increasing",
+        "b": "Decreasing",
+        "c": "Constant ",
+        "d": "Increasing and then decreasing"
+      },
+      "explanations": {
+        "a": "The correct answer is constant. Kaplan turbines typically rotate at a constant speed, which is synchronized with the electrical grid frequency. This consistent rotation speed is crucial for stable electricity generation.",
+        "b": "The correct answer is constant. Kaplan turbines typically rotate at a constant speed, which is synchronized with the electrical grid frequency. This consistent rotation speed is crucial for stable electricity generation.",
+        "c": "The correct answer is constant. Kaplan turbines typically rotate at a constant speed, which is synchronized with the electrical grid frequency. This consistent rotation speed is crucial for stable electricity generation.",
+        "d": "The correct answer is constant. Kaplan turbines typically rotate at a constant speed, which is synchronized with the electrical grid frequency. This consistent rotation speed is crucial for stable electricity generation."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "9) The outlet of the Kaplan turbine is through _______.",
+      "answers": {
+        "a": "Vane Blades",
+        "b": "Moving pipeline",
+        "c": "Draft tube ",
+        "d": "Pump"
+      },
+      "explanations": {
+        "a": "The correct answer is draft tube. The draft tube is a critical component that helps in recovering kinetic energy from the discharged water, improving the overall efficiency of the turbine by converting the kinetic energy into pressure energy.",
+        "b": "The correct answer is draft tube. The draft tube is a critical component that helps in recovering kinetic energy from the discharged water, improving the overall efficiency of the turbine by converting the kinetic energy into pressure energy.",
+        "c": "The correct answer is draft tube. The draft tube is a critical component that helps in recovering kinetic energy from the discharged water, improving the overall efficiency of the turbine by converting the kinetic energy into pressure energy.",
+        "d": "The correct answer is draft tube. The draft tube is a critical component that helps in recovering kinetic energy from the discharged water, improving the overall efficiency of the turbine by converting the kinetic energy into pressure energy."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "10) The power output of Kaplan turbine ranges from__________.",
+      "answers": {
+        "a": "5 to 200 MW",
+        "b": "1000 to 2000 MW",
+        "c": "2000 to 3000 MW",
+        "d": "5000 and above"
+      },
+      "explanations": {
+        "a": "The correct answer is 5 to 200 MW. Kaplan turbines are suitable for low-head applications and typically generate power in the range of 5 to 200 MW, making them ideal for smaller-scale hydropower projects and run-of-the-river installations.",
+        "b": "The correct answer is 5 to 200 MW. Kaplan turbines are suitable for low-head applications and typically generate power in the range of 5 to 200 MW, making them ideal for smaller-scale hydropower projects and run-of-the-river installations.",
+        "c": "The correct answer is 5 to 200 MW. Kaplan turbines are suitable for low-head applications and typically generate power in the range of 5 to 200 MW, making them ideal for smaller-scale hydropower projects and run-of-the-river installations.",
+        "d": "The correct answer is 5 to 200 MW. Kaplan turbines are suitable for low-head applications and typically generate power in the range of 5 to 200 MW, making them ideal for smaller-scale hydropower projects and run-of-the-river installations."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
