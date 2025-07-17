@@ -1,0 +1,26 @@
+
+/home/runner/work/exp-kaplan-turbine-iitk/exp-kaplan-turbine-iitk/experiment/simulation/js/calculation.js
+    1:10  warning  'checkYourResult' is defined but never used  no-unused-vars
+   36:17  warning  'confetti' is not defined                    no-undef
+   54:10  warning  'exportToExcel' is defined but never used    no-unused-vars
+   55:14  warning  'XLSX' is not defined                        no-undef
+   72:28  warning  'XLSX' is not defined                        no-undef
+   73:5   warning  'XLSX' is not defined                        no-undef
+   90:28  warning  'XLSX' is not defined                        no-undef
+   91:5   warning  'XLSX' is not defined                        no-undef
+  108:33  warning  'XLSX' is not defined                        no-undef
+  109:5   warning  'XLSX' is not defined                        no-undef
+  126:33  warning  'XLSX' is not defined                        no-undef
+  127:5   warning  'XLSX' is not defined                        no-undef
+  130:5   warning  'XLSX' is not defined                        no-undef
+
+/home/runner/work/exp-kaplan-turbine-iitk/exp-kaplan-turbine-iitk/experiment/simulation/js/main.js
+    5:5   warning  'svg' is assigned a value but never used            no-unused-vars
+   42:10  warning  'power' is defined but never used                   no-unused-vars
+  120:10  warning  'purzeAction' is defined but never used             no-unused-vars
+  215:5   warning  'weightflag' is assigned a value but never used     no-unused-vars
+  216:10  warning  'updatereading' is defined but never used           no-unused-vars
+  429:10  warning  'updateValvePositioning' is defined but never used  no-unused-vars
+
+✖ 19 problems (0 errors, 19 warnings)
+
