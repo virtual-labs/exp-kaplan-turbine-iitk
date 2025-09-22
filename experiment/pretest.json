@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1) Which of the following statements is true?",
+      "question": "“1.” Which of the following statements is true?",
       "answers": {
         "a": "Both Pelton and Francis turbine are impulse turbine",
         "b": "Kaplan turbine is axial flow reaction turbine",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "2) For which of the following values of available heads may Kaplan turbine be used?",
+      "question": "“2.” For which of the following values of available heads may Kaplan turbine be used?",
       "answers": {
         "a": "250 m",
         "b": "150 m",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "3) Which turbine usually has least number of blades?",
+      "question": "“3.” Which turbine usually has least number of blades?",
       "answers": {
         "a": "Kaplan",
         "b": "Pelton",
@@ -53,7 +53,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "4) Blades in Kaplan Turbine have twist to maintain:",
+      "question": "“4.” Blades in Kaplan Turbine have twist to maintain:",
       "answers": {
         "a": "Constant angle of attack and high efficiency",
         "b": "Constant angle of attack and low efficiency",
@@ -70,7 +70,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "5) The runner of <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> turbine are always at a pressure above the atmospheric pressure.",
+      "question": "“5.” The runner of <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> turbine are always at a pressure above the atmospheric pressure.",
       "answers": {
         "a": "Turgo",
         "b": "Girand",
@@ -87,7 +87,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "6) Velocity triangles are used to analyze:",
+      "question": "“6.” Velocity triangles are used to analyze:",
       "answers": {
         "a": "Flow of water along blades of turbine",
         "b": "Measure discharge of flow",
@@ -104,7 +104,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "7) The Kaplan Turbine is an evolution of:",
+      "question": "“7.” The Kaplan Turbine is an evolution of:",
       "answers": {
         "a": "Francis turbine",
         "b": "Pelton wheel",
@@ -121,7 +121,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "8) Kaplan turbines rotates at a <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> rate.",
+      "question": "“8.” Kaplan turbines rotates at a <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> rate.",
       "answers": {
         "a": "increasing",
         "b": "decreasing",
@@ -138,7 +138,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "9) The outlet of the Kaplan turbine is through _______.",
+      "question": "“9.” The outlet of the Kaplan turbine is through:",
       "answers": {
         "a": "Vane Blades",
         "b": "Moving pipeline",
@@ -155,7 +155,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "10) The power output of Kaplan turbine typically ranges from:",
+      "question": "“10.” The power output of Kaplan turbine typically ranges from:",
       "answers": {
         "a": "5 to 200 MW",
         "b": "1000 to 2000 MW",
